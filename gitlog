@@ -1,0 +1,5 @@
+adria@DESKTOP-9BOUUO0 MINGW64 ~/zaliczenie (main)
+$ git log --pretty=oneline
+778289ef0ea45145de3a5dd3fbc047a578c63c80 (HEAD -> main, origin/main, origin/HEAD) Create .gitignore
+99bb9decafa65a2f288e39b3e21e4c5d01e63982 Initial commit
+
